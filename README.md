@@ -1,4 +1,11 @@
 ## Hi there 👋
+<!-- personal introduction, skills and technologies,
+and a list of projects and/or work. -->
+
+My name is Matthew Burrell! I have only been coding for two years, but I have loved it! I love the practicality of coding, when I learn a new practice or concept, the next step is to go do it!
+I currently have one personal project. It is a protocol app I am building for my fire department. I haven't made much progress on it, so I have not uploaded it to my Github yet, but I will soon!
+I have recently been learning more about object-oriented programming. I feel that I have a firm grasp on the basics and I am excited to see what the next steps are! 
+Though I have experience with web development, and I do still have an open heart and mind, I would prefer to never have to interact with any CSS file every again. HTML and JavaScript are great! CSS is not my strong suit...
 
 <!--
 **MatthewBurrell-92/MatthewBurrell-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
